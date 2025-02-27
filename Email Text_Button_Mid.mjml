@@ -135,7 +135,7 @@
     <mj-wrapper background-color="#f7f9fc" padding="32px 0px 0px 0px">
       <mj-section border="none" padding="0" text-align="left">
         <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="600px" padding="0px">
-          <mj-image alt="email header" css-class="c" padding="0" width="600px" src="/Images/header.jpg" fluid-on-mobile="false" border-radius="12px 12px 0px 0px"></mj-image>
+          <mj-image alt="email header" css-class="c" padding="0" width="600px" src="/Images/Baneer.png" fluid-on-mobile="false" border-radius="12px 12px 0px 0px"></mj-image>
         </mj-column>
       </mj-section>
       <!--
